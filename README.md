@@ -23,7 +23,7 @@
 
 <h2 align="center">Contact</h2>
 <p align="center">
-  <a href="https://bigpie1367.github.io">
+  <a href="https://no-intellectual.tistory.com/">
     <img src="https://img.shields.io/badge/Blog-%23222222?style=flat-square&logo=githubpages&logoColor=white">
   </a>
   <img src="https://img.shields.io/badge/suin.rohh%40gmail.com-%23EA4335?style=flat-square&logo=gmail&logoColor=white">
